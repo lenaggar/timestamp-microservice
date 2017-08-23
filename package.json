@@ -1,0 +1,12 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "A Timestamp Microservice application built with Node.js Express | FCC challenge",
+  "main": "server.js",
+  "repository": "https://github.com/lenaggar/timestamp-microservice.git",
+  "author": "lenaggar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
