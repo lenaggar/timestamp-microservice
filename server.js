@@ -20,7 +20,7 @@ app.route('*').get((req, res) => {
   res.sendFile('index.html', { root: './' });
 });
 
-// start server...
+// start server on the preset port...
 app.listen(port, () => {
   console.log(` ~ listening on port ${port}`)
 })
